@@ -1,0 +1,1 @@
+import '@testing-library/jest-dom'; // Importa las extensiones de Jest DOM
