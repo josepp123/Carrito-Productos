@@ -19,4 +19,4 @@ const ProductList = ({ products, addToCart }) => (
   </div>
 );
 
-export default ProductList; // Exportamos el componente para ser usado en App.jsx
+export default ProductList; 

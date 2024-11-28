@@ -9,7 +9,7 @@ const Cart=({cart})=>(
             {cart.map((item, index)=>(
                 <li key={index}>
                  {/* Renderizamos el nombre y precio del producto */}
-                 {item.name} - ${item.price}
+                 {item.name} - Bs.{item.price}
                 </li>
             ))}
         </ul>
